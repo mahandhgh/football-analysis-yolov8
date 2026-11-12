@@ -74,9 +74,7 @@ tracking/                Detection and ByteTrack
 team_assignment/         Jersey clustering and goalkeeper teams
 transformation/          Pitch keypoints and homography
 visualization/           Annotations and miniature pitch
-models/                  Included custom checkpoints and manifest
 assets/                  README animation and its generation script
-data/                    Local videos (ignored by Git)
 tests/                   Regression checks
 ```
 
