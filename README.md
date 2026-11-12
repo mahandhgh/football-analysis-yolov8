@@ -90,7 +90,3 @@ The old pickle tracking cache is intentionally not used: every run analyses the 
 
 
 
-
-Original project team: Sobhan Kia, Ali Azizmohammadi, Mahan Dehghani.
-
-The original archive supplied no project licence, model provenance or video redistribution terms. No licence has been invented for those assets. Confirm their redistribution permissions before publishing. Ultralytics has its own [licensing terms](https://www.ultralytics.com/license); third-party dependencies retain their respective licences.
