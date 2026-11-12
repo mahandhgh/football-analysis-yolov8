@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+runs/
+data/*
+!data/.gitkeep
+*.pkl
+*.log
+models/
+data/

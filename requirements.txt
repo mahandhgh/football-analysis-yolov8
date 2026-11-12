@@ -1,0 +1,8 @@
+ultralytics==8.4.48
+supervision==0.28.0
+torch==2.9.1
+torchvision==0.24.1
+opencv-python==4.13.0.92
+numpy==2.3.4
+scikit-learn==1.8.0
+Pillow==12.0.0
